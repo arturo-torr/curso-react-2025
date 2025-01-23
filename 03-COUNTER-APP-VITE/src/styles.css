@@ -6,3 +6,20 @@ body {
   font-size: 1.3rem;
   padding: 70px;
 }
+
+button {
+  padding: 10px 20px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  background-color: blueviolet;
+  color: white;
+  font-weight: bold;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin-right: 5px;
+}
+
+button:hover {
+  background-color: white;
+  color: blueviolet;
+}
